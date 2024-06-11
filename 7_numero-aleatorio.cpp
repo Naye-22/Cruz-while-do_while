@@ -1,3 +1,5 @@
+//FALTA ENUNCIADO
+
 #include <iostream>
 #include <cstdlib> 
 #include <ctime>  
