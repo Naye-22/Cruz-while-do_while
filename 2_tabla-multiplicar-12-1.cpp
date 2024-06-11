@@ -5,6 +5,8 @@ using namespace std;
 int main() {
     int num = 12; // Comenzar con 12
 
+    //ESTE EJERCICIO NO NECESITA DE 2 BUCLES
+    
     do {
         cout << "Tabla del " << num << ":" << endl;
         int i = 1;
